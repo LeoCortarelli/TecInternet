@@ -1,2 +1,2 @@
-# TecInternet
-Aulas , e exercícios e projetos de internet  
+# TecWeb
+Aulas , exercícios e projetos web
