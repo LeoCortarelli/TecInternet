@@ -1,2 +1,2 @@
 # TecWeb
-Aulas , exercícios e projetos web
+Aulas e projetos web TypeScript, JavaScript e Node.js
